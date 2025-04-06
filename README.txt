@@ -1,0 +1,1 @@
+HTTPS redirect to 18alan.space
